@@ -2,6 +2,16 @@
 
 A full-stack profile management application with React frontend and Python Flask backend.
 
+
+🚀 **Live Demo:** https://the-profile-two.vercel.app
+
+
+
+## Project Description
+
+This project is a full-stack profile application that allows candidates to showcase their professional profile including skills, education, certifications, and projects. It also provides a recruiter-friendly quick view for faster candidate evaluation.
+
+
 ## Tech Stack
 
 - **Frontend**: React + Vite + Tailwind CSS
@@ -185,10 +195,6 @@ This innovation improves usability by allowing recruiters to evaluate candidates
 - API proxy is configured in vite.config.js to forward /api requests to the backend
 
 
-## Live Demo
-
-Frontend: https://the-profile-two.vercel.app  
-Backend API: https://the-profile.onrender.com/api/profile
 
 
 ## Author
