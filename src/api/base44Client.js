@@ -1,6 +1,5 @@
 // API client that connects to the Python backend
-const API_BASE_URL = '/api';
-
+const API_BASE_URL = "https://the-profile.onrender.com/api";
 const profileService = {
   entities: {
     Profile: {
