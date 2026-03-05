@@ -165,16 +165,19 @@ bash
 ```
 ## Innovation Feature
 
-### Dual Profile View
+### Dual Profile View (Candidate View & Recruiter View)
 
-The application includes a unique feature that allows switching between two different profile views.
+This project introduces a Dual Profile View feature designed to improve the experience for both candidates and recruiters.
 
-**Candidate Detailed View**
-Displays the complete profile information including skills, education, certifications, projects, and experience.
+The Candidate Detailed View displays complete information including education, certifications, projects, skills, and experience. This allows candidates to present their full professional profile.
 
-**Recruiter Quick View**
-Provides a simplified version of the profile highlighting only key hiring information such as top skills, major projects, and contact details. This helps recruiters quickly evaluate the candidate.
+The Recruiter Quick View provides a simplified version of the profile that highlights only the most important hiring-related information such as key skills, major projects, and contact links.
 
+### Why this Innovation?
+
+Recruiters usually spend very little time reviewing each profile. A long profile can make it difficult to quickly identify important information. The Recruiter Quick View solves this problem by presenting only the most relevant details in a concise format.
+
+This innovation improves usability by allowing recruiters to evaluate candidates faster while still keeping the full detailed profile available when needed.
 ## Development
 
 - Frontend runs on port 5173 (Vite)
