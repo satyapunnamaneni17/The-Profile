@@ -185,6 +185,12 @@ This innovation improves usability by allowing recruiters to evaluate candidates
 - API proxy is configured in vite.config.js to forward /api requests to the backend
 
 
+## Live Demo
+
+Frontend: https://the-profile-two.vercel.app  
+Backend API: https://the-profile.onrender.com/api/profile
+
+
 ## Author
 
 Punnamaneni Jaya Siva Sankara Satyanarayana
