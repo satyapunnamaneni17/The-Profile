@@ -188,6 +188,16 @@ The Recruiter Quick View provides a simplified version of the profile that highl
 Recruiters usually spend very little time reviewing each profile. A long profile can make it difficult to quickly identify important information. The Recruiter Quick View solves this problem by presenting only the most relevant details in a concise format.
 
 This innovation improves usability by allowing recruiters to evaluate candidates faster while still keeping the full detailed profile available when needed.
+
+## Deployment
+
+The application is deployed using modern cloud platforms to make it accessible online.
+
+Frontend: https://the-profile-two.vercel.app  
+Backend API: https://the-profile.onrender.com/api/profile
+
+Note: The backend is hosted on the Render free tier. The service may take a few seconds to respond on the first request because the server wakes up from sleep after inactivity.
+
 ## Development
 
 - Frontend runs on port 5173 (Vite)
